@@ -173,6 +173,30 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://projecteuler.net/
 - Book: Competitive Programming Handbook, Springer
  
+## CS Fundamentals
 
+You can search on Youtube to learn these subjects mentioned below, for example Cornell University's course on YT is apt for Database management systems.
+ 
 
+I just accumulated all things you can revise 10 days before your interview with respect to the following subjects:
 
+- Operating Systems
+- Database Management Systems
+- Computer Networks
+- Object Oriented analysis Design
+
+Link: https://github.com/antariksh17/Subjective-studies_OS-CN-DBMS
+
+P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns"
+
+## System Design
+
+- https://www.youtube.com/watch?v=ztHopE5Wnpc
+- https://www.udacity.com/course/database-systems-concepts-design--ud150?irclickid=T4iyYGz1BxyLRoUwUx0Mo3EFUkEwtBQQDzuOQA0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=__&utm_content=&adid=788805
+- https://www.youtube.com/watch?v=ZgdS0EUmn70&list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL
+- https://www.udacity.com/course/design-of-computer-programs--cs212
+- https://www.udacity.com/course/database-systems-concepts-design--ud150
+- https://www.geeksforgeeks.org/getting-started-with-system-design/
+- https://www.youtube.com/watch?v=DSGsa0pu8-k
+- https://www.youtube.com/playlist?list=PL564gOx0bCLqTolRIHIsR2JPv11w8LESW
+- https://get.interviewready.io/course-preview#video
