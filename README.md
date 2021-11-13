@@ -64,6 +64,7 @@ Now you have understood the syntax of your preferred language and need to hon yo
 - https://www.youtube.com/watch?v=9TlHvipP5yA
 - https://www.youtube.com/watch?v=Ee0HzlnIYWQ
 - https://www.youtube.com/watch?v=Mo4vesaut8g
+- https://www.youtube.com/watch?v=J56ggSnbyKY&list=PLiQ766zSC5jOuk-QnjvTv7E8wqOTQ-Ic9
 
 
 
@@ -140,6 +141,13 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://www.youtube.com/watch?v=tWVWeAqZ0WU&ab_channel=freeCodeCamp.org
 - https://www.youtube.com/watch?v=ddTC4Zovtbc&list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j
 - https://www.youtube.com/watch?v=DgXR2OWQnLc&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P
+- https://www.youtube.com/watch?v=-dfsxsiGoC8&list=PLiQ766zSC5jNlilqsJSiVcvIMxTdMlJbl
+
+**Trees**
+- https://www.youtube.com/watch?v=suj1ro8TIVY&list=PLiQ766zSC5jND9vxch5-zT7GuMigiWaV_
+- https://www.youtube.com/watch?v=fAAZixBzIAI
+- https://www.youtube.com/watch?v=1XC3p2zBK34&list=PLDV1Zeh2NRsDfGc8rbQ0_58oEZQVtvoIc
+- https://www.youtube.com/watch?v=JfSdGQdAzq8&list=PLDV1Zeh2NRsCYY48kOkeLQ-cg9-eqInzs
 
 **Strategy**
 
@@ -198,8 +206,18 @@ I just accumulated all things you can revise 10 days before your interview with 
    - https://www.udacity.com/course/intro-to-relational-databases--ud197
    - https://www.geeksforgeeks.org/dbms/
    - https://www.youtube.com/watch?v=h0j0QN2b57M&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID
+
 - Computer Networks
-- Object Oriented analysis Design
+   - https://www.udacity.com/course/computer-networking--ud436
+   - https://online.stanford.edu/courses/cs144-introduction-computer-networking
+   - https://online.stanford.edu/courses/ee284-introduction-computer-networks
+   - https://www.coursera.org/projects/ccna-introduction-networks-cisco-devices
+   - https://www.youtube.com/watch?v=qiQR5rTSshw
+   - https://www.youtube.com/watch?v=QKfk7YFILws
+   - https://www.udacity.com/course/networking-for-web-developers--ud256
+
+- Object Oriented  Programming + Analysis & Design
+  - https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw
 
 Link: https://github.com/antariksh17/Subjective-studies_OS-CN-DBMS
 
@@ -221,3 +239,27 @@ P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns
 - http://highscalability.com/
 
 
+## Javascript
+
+This is meant for those who really want to learn JS.
+
+- https://www.codecademy.com/learn/introduction-to-javascript
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- https://www.khanacademy.org/computing/computer-programming/html-js-jquery#jquery-dom-access
+- https://www.educative.io/courses/introduction-to-javascript-first-steps?aid=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=dynamic2&gclid=CjwKCAiArbv_BRA8EiwAYGs23Ojv4Qbaum9D-PVz0UatWtVtxHWPcWV2iFGglx7t7_Z-_oJPt-D38BoCjw4QAvD_BwE
+- https://www.udemy.com/course/the-complete-javascript-course/?ranMID=39197&ranEAID=fRpllyICu8o&ranSiteID=fRpllyICu8o-5wUkYHzXdAKuPCTmUmcSlw&LSNPUBID=fRpllyICu8o&utm_source=aff-campaign&utm_medium=udemyads
+- https://edabit.com/challenges/javascript
+- https://beginnerwebdev.com/
+- https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+- https://eloquentjavascript.net/
+- https://github.com/trekhleb/javascript-algorithms
+- https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-nodejs/
+- https://www.frontendmentor.io/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet
+
+- https://github.com/trekhleb/javascript-algorithms
+
+**Books**
+
+- Eloquent Javascript
+- You Don't Know JS(Series) 
