@@ -11,9 +11,9 @@ Many people avoid learning Python because the availibility of libraries make it 
 
 **Languages for DSA covered here**
 
--Python
--C++
--Java
+- Python
+- C++
+- Java
 
 
 You can look up the pros and cons of learning each with a quick google search of "Language 1" Vs "Language 2" 
@@ -54,6 +54,20 @@ You can look up the pros and cons of learning each with a quick google search of
 Now you have understood the syntax of your preferred language and need to hon your problem solving skills. Personal suggestion is to read up on Space & Time Complexity before you go on this adventure so you can learn to think on those lines from the very start itself. 
 
 ### Learning Big O Notation [To calculate Space & Time Complexity]
+
+**Resources**
+
+- https://www.educative.io/blog/a-big-o-primer-for-beginning-devs
+- https://www.educative.io/blog/big-o-notation-cheat-sheet
+- https://www.educative.io/blog/data-structures-algorithms
+- https://cooervo.github.io/Algorithms-DataStructures-BigONotation/
+- https://www.youtube.com/watch?v=9TlHvipP5yA
+- https://www.youtube.com/watch?v=Ee0HzlnIYWQ
+- https://www.youtube.com/watch?v=Mo4vesaut8g
+
+
+
+### DSA Resources
 
 
 
