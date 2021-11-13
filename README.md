@@ -104,6 +104,12 @@ I am going to split the resources according to Video Based Learning & Text Based
 - https://www.geeksforgeeks.org/data-structures/?ref=shm
 - https://github.com/TheAlgorithms [Algo implementation in 6 languages!]
 
+**Books**
+
+- Cracking the Coding Interview
+- Elements of Programming Interviews
+- Algorithm Design
+- Introduction to Algorithms, Cormen
 
 **Language Specific**
 
@@ -113,9 +119,60 @@ I am going to split the resources according to Video Based Learning & Text Based
 
 - https://www.youtube.com/watch?v=c0_1QnyVYQY&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma [BEST THERE IS FOR CPP OUT THERE][C++]
 
-P.S : Both these channels have picked very important problems and you can even find a downloadable list in the description of the cpp video series. regardless of the language you pick , definitely check out the problems and implement them in your choice of language
+- https://www.youtube.com/watch?v=B31LgI4Y4DQ&ab_channel=freeCodeCamp.org [C++]
+
+P.S : The first two channels have picked very important problems and you can even find a downloadable list in the description of the cpp video series. regardless of the language you pick , definitely check out the problems and implement them in your choice of language
+
+## Selective content and strategies for  getting better at Leetcode
+
+**Dynamic Programming**
+
+- https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
+- https://leetcode.com/problems/longest-increasing-subsequence/ [major concept forming question]
+- https://www.youtube.com/watch?v=gQszF5qdZ-0&list=PLDV1Zeh2NRsAsbafOroUBnNV8fhZa7P4u
+- https://www.youtube.com/watch?v=oBt53YbR9Kk
+- https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go [Language Barrier]
+- https://www.youtube.com/watch?v=f19e_ofbydc&list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS
+- https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
+
+**Graph Algorithms**
+
+- https://www.youtube.com/watch?v=tWVWeAqZ0WU&ab_channel=freeCodeCamp.org
+- https://www.youtube.com/watch?v=ddTC4Zovtbc&list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j
+- https://www.youtube.com/watch?v=DgXR2OWQnLc&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P
+
+**Strategy**
+
+- https://www.reddit.com/r/cscareerquestions/comments/6luszf/a_leetcode_grinding_guide/
+- https://github.com/SeanPrashad/leetcode-patterns
+- https://medium.com/algorithms-and-leetcode/want-to-crack-leetcode-problems-easily-dc825e27e423
+- https://drive.google.com/file/d/1qqwdlcMISXp3pU90fYcjDEERl-jqGVVB/view?usp=sharing
+- https://www.educative.io/courses/coderust-hacking-the-coding-interview
 
 
+# Places To Practice/ Hone Your Skills!
+
+- https://www.hackerrank.com/domains/algorithms [basic/easy]
+- https://practice.geeksforgeeks.org/home/  [extensive]
+- https://leetcode.com/problemset/all/     [recommended/prescribed]
+- https://binarysearch.com/ [interactive]
+
+**Advanced**
+- https://codeforces.com/problemset
+- https://www.codechef.com/problems/school/?itm_medium=navmenu&itm_campaign=problems
+- https://www.spoj.com/
+- http://topcoder.com/
+
+
+## Advanced Competitive Programming Hacks
+
+- https://whimsical.com/codeforces-candidate-master-roadmap-by-love-babbar-CiXPPD3CnwoXPr2d8Ajx1h
+- https://cp-algorithms.com/
+- https://cses.fi/problemset/
+- https://a2oj.com/
+- https://projecteuler.net/
+- Book: Competitive Programming Handbook, Springer
+ 
 
 
 
