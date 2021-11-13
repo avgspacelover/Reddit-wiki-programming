@@ -181,7 +181,23 @@ You can search on Youtube to learn these subjects mentioned below, for example C
 I just accumulated all things you can revise 10 days before your interview with respect to the following subjects:
 
 - Operating Systems
+    - https://www.youtube.com/watch?v=z3Nw5o9dS7Q&list=PLsylUObW5M3CAGT6OdubyH6FztKfJCcFB
+    - https://www.geeksforgeeks.org/operating-systems/
+    - https://www.youtube.com/watch?v=bkSWJJZNgf8&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p
+    - https://www.udacity.com/course/introduction-to-operating-systems--ud923?irclickid=T4iyYGz1BxyLRoUwUx0Mo3EFUkEwtgTsDzuOQA0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=__&utm_content=&adid=788805
+    - https://onlinecourses.nptel.ac.in/noc20_cs75/preview
+    - https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ
+    - https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O
+
 - Database Management Systems
+   - https://www.youtube.com/watch?v=HXV3zeQKqGY
+   - https://www.youtube.com/watch?v=IoL9Ve2SRwQ&list=PL3pGy4HtqwD3Ov1J2UBTfsLgxUzUktTAM
+   - https://www.edx.org/course/modeling-and-theory
+   - https://www.edx.org/course/advanced-topics-in-sql
+   - https://www.edx.org/course/databases-5-sql
+   - https://www.udacity.com/course/intro-to-relational-databases--ud197
+   - https://www.geeksforgeeks.org/dbms/
+   - https://www.youtube.com/watch?v=h0j0QN2b57M&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID
 - Computer Networks
 - Object Oriented analysis Design
 
@@ -191,6 +207,7 @@ P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns
 
 ## System Design
 
+- https://github.com/donnemartin/system-design-primer
 - https://www.youtube.com/watch?v=ztHopE5Wnpc
 - https://www.udacity.com/course/database-systems-concepts-design--ud150?irclickid=T4iyYGz1BxyLRoUwUx0Mo3EFUkEwtBQQDzuOQA0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=__&utm_content=&adid=788805
 - https://www.youtube.com/watch?v=ZgdS0EUmn70&list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL
@@ -200,3 +217,7 @@ P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns
 - https://www.youtube.com/watch?v=DSGsa0pu8-k
 - https://www.youtube.com/playlist?list=PL564gOx0bCLqTolRIHIsR2JPv11w8LESW
 - https://get.interviewready.io/course-preview#video
+- https://www.reddit.com/r/ExperiencedDevs/comments/q4xj42/best_way_to_learnpracticeprepare_for_system/
+- http://highscalability.com/
+
+
