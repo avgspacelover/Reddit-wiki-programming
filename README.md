@@ -95,6 +95,27 @@ I am going to split the resources according to Video Based Learning & Text Based
 - https://www.edx.org/course/algorithm-design-and-analysis
 
 
+**Text Based Learning**
+
+- https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa
+- https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/
+- https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/
+- https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm
+- https://www.geeksforgeeks.org/data-structures/?ref=shm
+- https://github.com/TheAlgorithms [Algo implementation in 6 languages!]
+
+
+**Language Specific**
+
+-https://pepcoding.com/faangList2.0 | 
+- https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/ 
+- https://www.youtube.com/watch?v=F8xQ5joLlD0&list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk [ALL 3 HAVE LANGUAGE BARRIER BUT THE BEST THERE IS FOR JAVA OUT THERE] [JAVA]
+
+- https://www.youtube.com/watch?v=c0_1QnyVYQY&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma [BEST THERE IS FOR CPP OUT THERE][C++]
+
+P.S : Both these channels have picked very important problems and you can even find a downloadable list in the description of the cpp video series. regardless of the language you pick , definitely check out the problems and implement them in your choice of language
+
+
 
 
 
