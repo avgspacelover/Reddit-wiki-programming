@@ -69,5 +69,32 @@ Now you have understood the syntax of your preferred language and need to hon yo
 
 ### DSA Resources
 
+I am going to split the resources according to Video Based Learning & Text Based Learning.
+
+**Video Based Learning**
+
+- https://www.youtube.com/watch?v=RBSGKlAvoiM [Quick Overview of DSA]
+- https://www.youtube.com/watch?v=8hly31xKli0&ab_channel=freeCodeCamp.org [Quick Overview of DSA]
+- https://www.youtube.com/watch?v=zg9ih6SVACc&ab_channel=freeCodeCamp.org [Quick Overview of DSA]
+- https://www.youtube.com/watch?v=Qmt0QwzEmh0&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu [Quick Overview of DSA]
+- https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H [Quick Overview of DSA]
+
+- https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O [In Depth]
+- https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb [Rigorous & Formal]
+
+**MOOCS**
+
+- https://www.coursera.org/specializations/data-structures-algorithms
+- https://www.edx.org/course/data-structures-an-active-learning-approach?source=aw&awc=6798_1606628063_f8163bd46d1c3185f7a7d0d0296d89d3&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F
+- https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-fUX0gqi8qiCPyQxn1juM5g&siteID=SAyYsTvLiGQ-fUX0gqi8qiCPyQxn1juM5g&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ
+- https://www.udacity.com/course/intro-to-algorithms--cs215?irclickid=T4iyYGz1BxyLRoUwUx0Mo3EFUkEwt01YDzuOQA0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=__&utm_content=&adid=788805
+- https://www.khanacademy.org/computing/computer-science/algorithms
+- https://www.coursera.org/specializations/algorithms#courses
+- https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-oTlhZjHnLdGgvt2yfo3pzQ&siteID=JVFxdTr9V80-oTlhZjHnLdGgvt2yfo3pzQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80
+- https://www.udemy.com/course/dynamic-programming-i/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-oWU5LIlIjVnh5nu21LTTJg&utm_medium=udemyads&utm_source=aff-campaign
+- https://www.edx.org/course/algorithm-design-and-analysis
+
+
+
 
 
