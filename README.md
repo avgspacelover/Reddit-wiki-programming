@@ -112,12 +112,12 @@ I am going to split the resources according to Video Based Learning & Text Based
 - Algorithm Design
 - Introduction to Algorithms, Cormen
 
-P.S If you  can't affor to Buy  Books then google "Library Genesis" :)
+P.S If you  can't afford to Buy  Books then google "Library Genesis" :)
 
 **RECOMMENDED FOR PATTERN RECOGNITION**
 LINK: https://www.educative.io/courses/grokking-the-coding-interview
 
-P.S If you  can't affor to pay for this subscription then google "Library Genesis" :)
+P.S If you  can't afford to pay for this subscription then google "Library Genesis" :)
 
 **Language Specific**
 
