@@ -35,6 +35,7 @@ You can look up the pros and cons of learning each with a quick google search of
 + https://www.learncpp.com/
 + https://practice.geeksforgeeks.org/batch/fork-cpp
 + https://www.edx.org/learn/c-plus-plus
++ https://www.youtube.com/watch?v=A3VQKXBLstw&list=PLEbnTDJUr_Ie_XH-FZN7zCdU7z_EvUmEg [comprehensive]
 + https://www.udacity.com/course/c-for-programmers--ud210
 + https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF
 + https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&ab_channel=ApnaCollege [Language Barrier, but the syllabus is almost exhaustive so definitely worth it to just refer is as curriculum]
