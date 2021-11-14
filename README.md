@@ -115,7 +115,7 @@ I am going to split the resources according to Video Based Learning & Text Based
 
 P.S If you  can't afford to Buy  Books then google "Library Genesis" :)
 
-**RECOMMENDED FOR PATTERN RECOGNITION**
+**RECOMMENDED FOR PATTERN RECOGNITION** <br>
 LINK: https://www.educative.io/courses/grokking-the-coding-interview
 
 P.S If you  can't afford to pay for this subscription then google "Library Genesis" :)
