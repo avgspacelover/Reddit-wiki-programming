@@ -166,6 +166,8 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://drive.google.com/file/d/1qqwdlcMISXp3pU90fYcjDEERl-jqGVVB/view?usp=sharing
 - https://www.educative.io/courses/coderust-hacking-the-coding-interview
 - https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/
+- https://www.pepcoding.com/most-important-interview-questions-list-for-product-based-companies
+- https://www.pepcoding.com/faangList2.0
 
 
 # Places To Practice/ Hone Your Skills!
