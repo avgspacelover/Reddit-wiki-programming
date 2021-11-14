@@ -122,7 +122,7 @@ P.S If you  can't afford to pay for this subscription then google "Library Genes
 
 **Language Specific**
 
--https://pepcoding.com/faangList2.0 | 
+- https://pepcoding.com/faangList2.0 | 
 - https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/ 
 - https://www.youtube.com/watch?v=F8xQ5joLlD0&list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk [ALL 3 HAVE LANGUAGE BARRIER BUT THE BEST THERE IS FOR JAVA OUT THERE] [JAVA]
 
