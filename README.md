@@ -207,6 +207,7 @@ I just accumulated all things you can revise 10 days before your interview with 
     - https://onlinecourses.nptel.ac.in/noc20_cs75/preview
     - https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ
     - https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O
+    - https://www.youtube.com/watch?v=8xUESrjyj1c&list=PLEbnTDJUr_IfenRWZ73RPWNFTeGaqYQ8T
 
 - Database Management Systems
    - https://www.youtube.com/watch?v=HXV3zeQKqGY
@@ -248,6 +249,7 @@ P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns
 - https://get.interviewready.io/course-preview#video
 - https://www.reddit.com/r/ExperiencedDevs/comments/q4xj42/best_way_to_learnpracticeprepare_for_system/
 - http://highscalability.com/
+- https://www.youtube.com/watch?v=fH5LPt-4Xi0&list=PLEbnTDJUr_IdcgKNBcPzgK4zC1zapZqGs
 
 
 ## Javascript
