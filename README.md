@@ -130,6 +130,7 @@ P.S If you  can't afford to pay for this subscription then google "Library Genes
 - https://www.youtube.com/watch?v=c0_1QnyVYQY&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma [BEST THERE IS FOR CPP OUT THERE][C++]
 
 - https://www.youtube.com/watch?v=B31LgI4Y4DQ&ab_channel=freeCodeCamp.org [C++]
+- https://classroom.udacity.com/courses/ud513 [Python]
 
 P.S : The first two channels have picked very important problems and you can even find a downloadable list in the description of the cpp video series. regardless of the language you pick , definitely check out the problems and implement them in your choice of language
 
@@ -277,7 +278,7 @@ This is meant for those who really want to learn JS.
 - https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-nodejs/
 - https://www.frontendmentor.io/
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet
-
+- http://javascript.info
 - https://github.com/trekhleb/javascript-algorithms
 
 **Books**
