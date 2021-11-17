@@ -190,6 +190,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://whimsical.com/codeforces-candidate-master-roadmap-by-love-babbar-CiXPPD3CnwoXPr2d8Ajx1h
 - https://www.youtube.com/c/Errichto/playlists
 - https://www.youtube.com/c/SecondThread/playlists
+- https://www.youtube.com/user/MrHulasingh25/playlists
 - https://www.youtube.com/watch?v=4KAQ6UViDoE [recommended]
 - https://cp-algorithms.com/
 - https://cses.fi/problemset/
