@@ -282,6 +282,7 @@ This is meant for those who really want to learn JS.
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet
 - http://javascript.info
 - https://github.com/trekhleb/javascript-algorithms
+- https://github.com/sudheerj/javascript-interview-questions
 
 **Books**
 
