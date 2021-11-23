@@ -260,6 +260,7 @@ P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns
 - https://www.reddit.com/r/ExperiencedDevs/comments/q4xj42/best_way_to_learnpracticeprepare_for_system/
 - http://highscalability.com/
 - https://www.youtube.com/watch?v=fH5LPt-4Xi0&list=PLEbnTDJUr_IdcgKNBcPzgK4zC1zapZqGs
+- https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view [comprehensive]
 
 
 ## Javascript
