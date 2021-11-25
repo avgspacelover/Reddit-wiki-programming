@@ -178,6 +178,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://practice.geeksforgeeks.org/home/  [extensive]
 - https://leetcode.com/problemset/all/     [recommended/prescribed]
 - https://binarysearch.com/ [interactive]
+- https://www.codewars.com/dashboard [interactive]
 
 **Advanced**
 - https://codeforces.com/problemset
