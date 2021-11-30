@@ -170,6 +170,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/
 - https://www.pepcoding.com/most-important-interview-questions-list-for-product-based-companies
 - https://www.pepcoding.com/faangList2.0
+- https://techinterviewhandbook.org/best-practice-questions/
 
 
 # Places To Practice/ Hone Your Skills!
