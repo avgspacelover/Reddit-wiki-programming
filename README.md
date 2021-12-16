@@ -20,6 +20,8 @@ You can look up the pros and cons of learning each with a quick google search of
 
 ### Python(Resources)
 
++ https://www.codecademy.com/catalog/language/python [Recommended]
++ https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 + https://www.youtube.com/watch?v=rfscVS0vtbw
 + https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB
 + https://www.youtube.com/watch?v=8ext9G7xspg
@@ -28,6 +30,16 @@ You can look up the pros and cons of learning each with a quick google search of
 + https://www.coursera.org/projects/introduction-to-python
 + https://runestone.academy/runestone/books/published/pythonds/index.html
 + https://www.geeksforgeeks.org/python-programming-language/
++ https://futurecoder.io/
++ https://www.fullstackpython.com/
++ https://automatetheboringstuff.com/
++ https://youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
++ https://techdevguide.withgoogle.com/
++ https://python-course.eu/advanced-python/
++ https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln&index=1
++ http://www.pythonchallenge.com/
++ https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+
 
 
 ### C++ (Resources)
@@ -171,6 +183,8 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://www.pepcoding.com/most-important-interview-questions-list-for-product-based-companies
 - https://www.pepcoding.com/faangList2.0
 - https://techinterviewhandbook.org/best-practice-questions/
+- https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed [Must- Read]
+- https://github.com/kamyu104/LeetCode-Solutions
 
 
 # Places To Practice/ Hone Your Skills!
