@@ -39,6 +39,7 @@ You can look up the pros and cons of learning each with a quick google search of
 + https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln&index=1
 + http://www.pythonchallenge.com/
 + https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
++ https://github.com/donnemartin/interactive-coding-challenges
 
 
 
