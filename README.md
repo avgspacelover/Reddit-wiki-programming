@@ -98,6 +98,7 @@ I am going to split the resources according to Video Based Learning & Text Based
 - https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb [Rigorous & Formal]
 - https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY [Rigorous & Formal]
 - https://algs4.cs.princeton.edu/home/ [Rgorous & Formal]
+- https://github.com/jeffgerickson/algorithms [rigorous]
 
 **MOOCS**
 
