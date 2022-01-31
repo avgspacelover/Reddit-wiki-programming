@@ -189,6 +189,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://techinterviewhandbook.org/best-practice-questions/
 - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed [Must- Read]
 - https://github.com/kamyu104/LeetCode-Solutions
+- https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/ [must read]
 
 
 # Places To Practice/ Hone Your Skills!
