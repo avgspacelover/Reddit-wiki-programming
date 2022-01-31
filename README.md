@@ -133,7 +133,10 @@ I am going to split the resources according to Video Based Learning & Text Based
 P.S If you  can't afford to Buy  Books then google "Library Genesis" :)
 
 **RECOMMENDED FOR PATTERN RECOGNITION** <br>
-LINK: https://www.educative.io/courses/grokking-the-coding-interview
+-Websites
+ - https://www.educative.io/courses/grokking-the-coding-interview
+ - https://algo.monster 
+
 
 P.S If you  can't afford to pay for this subscription then google "Library Genesis" :)
 
@@ -191,6 +194,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://github.com/kamyu104/LeetCode-Solutions
 - https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/ [must read]
 - https://www.youtube.com/watch?v=QT0dS9C9uwo&ab_channel=W.IanDouglas [must watch]
+
 
 
 # Places To Practice/ Hone Your Skills!
