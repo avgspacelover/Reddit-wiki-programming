@@ -223,6 +223,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://cses.fi/problemset/
 - https://a2oj.com/
 - https://projecteuler.net/
+- https://blog.shahjalalshohag.com/topic-list/ [must-read]
 - Book: Competitive Programming Handbook, Springer
  
 ## CS Fundamentals
