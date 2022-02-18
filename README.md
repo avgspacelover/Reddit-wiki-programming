@@ -218,6 +218,7 @@ P.S : The first two channels have picked very important problems and you can eve
 ## Advanced Competitive Programming Hacks
 
 - https://whimsical.com/codeforces-candidate-master-roadmap-by-love-babbar-CiXPPD3CnwoXPr2d8Ajx1h
+- https://codeforces.com/blog/entry/95106
 - https://github.com/ShahjalalShohag/Competitive-Programming-A-Complete-Guideline
 - https://codeforces.com/blog/entry/99660
 - https://www.youtube.com/c/Errichto/playlists
