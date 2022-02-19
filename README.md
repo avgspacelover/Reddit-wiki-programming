@@ -207,6 +207,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://leetcode.com/problemset/all/     [recommended/prescribed]
 - https://binarysearch.com/ [interactive]
 - https://www.codewars.com/dashboard [interactive]
+- https://exercism.org/tracks/javascript [interactive]
 
 **Advanced**
 - https://codeforces.com/problemset
