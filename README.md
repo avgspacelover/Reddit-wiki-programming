@@ -172,6 +172,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://www.youtube.com/watch?v=ddTC4Zovtbc&list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j
 - https://www.youtube.com/watch?v=DgXR2OWQnLc&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P
 - https://www.youtube.com/watch?v=-dfsxsiGoC8&list=PLiQ766zSC5jNlilqsJSiVcvIMxTdMlJbl
+- https://www.youtube.com/c/MichaelSambol/videos
 
 **Trees**
 - https://www.youtube.com/watch?v=suj1ro8TIVY&list=PLiQ766zSC5jND9vxch5-zT7GuMigiWaV_
@@ -294,6 +295,7 @@ P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns
 - https://www.reddit.com/r/ExperiencedDevs/comments/q4xj42/best_way_to_learnpracticeprepare_for_system/
 - http://highscalability.com/
 - https://www.youtube.com/watch?v=fH5LPt-4Xi0&list=PLEbnTDJUr_IdcgKNBcPzgK4zC1zapZqGs
+- https://gist.github.com/vasanthk/485d1c25737e8e72759f
 - https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view [comprehensive]
 
 
