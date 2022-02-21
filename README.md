@@ -198,6 +198,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://www.youtube.com/watch?v=QT0dS9C9uwo&ab_channel=W.IanDouglas [must watch]
 - https://codeforces.com/blog/entry/20548
 - https://codeforces.com/blog/entry/99291
+- https://www.teamblind.com/post/Giving-back---how-I-cleared-L6-coding---Part-1---Google-ikvVrRXa
 
 
 
