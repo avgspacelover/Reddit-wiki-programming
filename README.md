@@ -188,7 +188,8 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://medium.com/algorithms-and-leetcode/want-to-crack-leetcode-problems-easily-dc825e27e423
 - https://drive.google.com/file/d/1qqwdlcMISXp3pU90fYcjDEERl-jqGVVB/view?usp=sharing
 - https://www.educative.io/courses/coderust-hacking-the-coding-interview
-- https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/
+- https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/ [MUST READ]
+- https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/ [MUST READ]
 - https://www.pepcoding.com/most-important-interview-questions-list-for-product-based-companies
 - https://www.pepcoding.com/faangList2.0
 - https://techinterviewhandbook.org/best-practice-questions/
