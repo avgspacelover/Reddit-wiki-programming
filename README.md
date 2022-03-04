@@ -40,7 +40,7 @@ You can look up the pros and cons of learning each with a quick google search of
 + http://www.pythonchallenge.com/
 + https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
 + https://github.com/donnemartin/interactive-coding-challenges
-
++ https://www.youtube.com/watch?v=pkYVOmU3MgA&ab_channel=freeCodeCamp.org | https://jovian.ai/learn/data-structures-and-algorithms-in-python [recommended]
 
 
 ### C++ (Resources)
