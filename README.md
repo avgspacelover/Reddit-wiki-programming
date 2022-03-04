@@ -262,6 +262,7 @@ I just accumulated all things you can revise 10 days before your interview with 
    - https://www.udacity.com/course/intro-to-relational-databases--ud197
    - https://www.geeksforgeeks.org/dbms/
    - https://www.youtube.com/watch?v=h0j0QN2b57M&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID
+   - https://www.scaler.com/topics/dbms/
 
 - Computer Networks
    - https://www.udacity.com/course/computer-networking--ud436
