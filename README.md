@@ -183,6 +183,7 @@ P.S : The first two channels have picked very important problems and you can eve
 **Strategy**
 
 - https://www.reddit.com/r/cscareerquestions/comments/6luszf/a_leetcode_grinding_guide/
+- https://chivagarg.medium.com/be-agile-not-prolific-f0f88b86aace
 - https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
 - https://github.com/SeanPrashad/leetcode-patterns
 - https://medium.com/algorithms-and-leetcode/want-to-crack-leetcode-problems-easily-dc825e27e423
