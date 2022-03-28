@@ -135,6 +135,7 @@ P.S If you  can't afford to Buy  Books then google "Library Genesis" :)
 **RECOMMENDED FOR PATTERN RECOGNITION** <br>
 -Websites
  - https://www.educative.io/courses/grokking-the-coding-interview
+ - https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4
  - https://algo.monster 
  - https://www.techinterviewhandbook.org/
 
