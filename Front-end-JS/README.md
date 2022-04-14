@@ -57,3 +57,8 @@ Some resources are paid and some are free, but I will only include stuff you rea
 - http://bonsaiden.github.io/JavaScript-Garden/
 - https://johnresig.com/apps/learn/
 - https://leanpub.com/understandinges6/read 
+
+## Javascript DOM Manipulation
+
+- https://www.udacity.com/course/javascript-and-the-dom--ud117
+- https://teamtreehouse.com/library/javascript-and-the-dom-3
