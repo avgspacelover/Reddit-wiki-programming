@@ -25,6 +25,20 @@ Some resources are paid and some are free, but I will only include stuff you rea
 ## Javascript
 
 ### Learn
+ 
+ 
+
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- https://www.educative.io/courses/introduction-to-javascript-first-steps?
+- https://www.udemy.com/course/the-complete-javascript-course/?ranMID=39197&ranEAID=fRpllyICu8o&ranSiteID=fRpllyICu8o-5wUkYHzXdAKuPCTmUmcSlw&LSNPUBID=fRpllyICu8o&utm_source=aff-campaign&utm_medium=udemyads
+- https://edabit.com/challenges/javascript
+- https://beginnerwebdev.com/
+
+- https://eloquentjavascript.net/ {T}
+- http://javascript.info {T}
+- https://github.com/trekhleb/javascript-algorithms
+- https://github.com/sudheerj/javascript-interview-questions
+
 
 ### Assess
 
