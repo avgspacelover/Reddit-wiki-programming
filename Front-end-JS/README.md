@@ -56,4 +56,4 @@ Some resources are paid and some are free, but I will only include stuff you rea
 
 - http://bonsaiden.github.io/JavaScript-Garden/
 - https://johnresig.com/apps/learn/
-
+- https://leanpub.com/understandinges6/read 
