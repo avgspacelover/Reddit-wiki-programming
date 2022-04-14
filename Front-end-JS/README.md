@@ -55,4 +55,5 @@ Some resources are paid and some are free, but I will only include stuff you rea
 ### Learn 
 
 - http://bonsaiden.github.io/JavaScript-Garden/
+- https://johnresig.com/apps/learn/
 
