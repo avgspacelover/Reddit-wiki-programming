@@ -7,6 +7,7 @@ Some resources are paid and some are free, but I will only include stuff you rea
   - (P) Paid
   - {T} Text Based Learning
   - {V} Video Based Learning
+  - {I} Interactive Learning
 
 ## HTML
 
@@ -18,6 +19,13 @@ Some resources are paid and some are free, but I will only include stuff you rea
 
 - https://www.freecodecamp.org/learn/responsive-web-design {T}
 
+<strong> Flexbox </strong>
+
+- https://scrimba.com/learn/flexbox {I}
+
+<strong> CSS GRID </strong>
+
+- https://scrimba.com/learn/cssgrid {I}
 
 
 ### Learn
