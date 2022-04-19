@@ -18,6 +18,9 @@ Some resources are paid and some are free, but I will only include stuff you rea
 ## CSS
 
 - https://www.freecodecamp.org/learn/responsive-web-design {T}
+- https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout {T}
+- https://web.dev/learn/css/layout/ {T}
+- https://learnlayout.com/ {T}
 
 <strong> Flexbox </strong>
 
