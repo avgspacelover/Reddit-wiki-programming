@@ -204,7 +204,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://codeforces.com/blog/entry/99291
 - https://www.teamblind.com/post/Giving-back---how-I-cleared-L6-coding---Part-1---Google-ikvVrRXa
 - https://leetcode.com/list/9gwk3xfh/
-
+- https://github.com/khanhnamle1994/technical-interview-prep/blob/master/Technical-Interview-Study-Guide.pdf
 
 
 # Places To Practice/ Hone Your Skills!
