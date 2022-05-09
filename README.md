@@ -184,6 +184,7 @@ P.S : The first two channels have picked very important problems and you can eve
 **Strategy**
 
 - https://www.reddit.com/r/cscareerquestions/comments/6luszf/a_leetcode_grinding_guide/
+- https://www.techinterviewhandbook.org/
 - https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/
 - https://chivagarg.medium.com/be-agile-not-prolific-f0f88b86aace
 - https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
