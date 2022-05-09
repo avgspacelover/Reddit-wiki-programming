@@ -206,7 +206,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://leetcode.com/list/9gwk3xfh/
 - https://github.com/khanhnamle1994/technical-interview-prep/blob/master/Technical-Interview-Study-Guide.pdf
 - https://www.reddit.com/r/leetcode/comments/ul64vv/comment/i7ulsq4/?utm_source=share&utm_medium=web2x&context=3
-
+- https://www.reddit.com/r/IAmA/comments/ui98mg/im_michael_i_was_a_principal_engineer_at_facebook/
 
 # Places To Practice/ Hone Your Skills!
 
