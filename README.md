@@ -308,4 +308,6 @@ P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns
 - https://www.youtube.com/watch?v=fH5LPt-4Xi0&list=PLEbnTDJUr_IdcgKNBcPzgK4zC1zapZqGs
 - https://gist.github.com/vasanthk/485d1c25737e8e72759f
 - https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view [comprehensive]
+- https://github.com/madd86/awesome-system-design
+- https://github.com/shashank88/system_design
 
