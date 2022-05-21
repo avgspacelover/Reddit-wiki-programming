@@ -311,3 +311,13 @@ P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns
 - https://github.com/madd86/awesome-system-design
 - https://github.com/shashank88/system_design
 
+## Teckling Behavorial Interviews
+
+- Prompts: https://leetcode.com/discuss/interview-question/437082/Amazon-Behavioral-questions-or-Leadership-Principles-or-LP
+- Reverse Interview: https://github.com/viraptor/reverse-interview || https://github.com/Twipped/InterviewThis
+- Tips: https://www.indeed.com/career-advice/interviewing/most-common-behavioral-interview-questions-and-answers?utm_source=podia&utm_medium=broadcast&utm_campaign=741478
+- Tips: https://www.educative.io/blog/behavioral-interviews-how-to-prepare-and-ace-interview-questions
+
+
+<hr>
+
