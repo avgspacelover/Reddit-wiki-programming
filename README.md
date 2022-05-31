@@ -296,7 +296,8 @@ P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns
 - https://github.com/donnemartin/system-design-primer [MUST]
 - https://github.com/binhnguyennus/awesome-scalability [MUST]
 - https://github.com/prasadgujar/low-level-design-primer [LLD]
-- https://akshay-iyangar.github.io/system-design/ [OOAD/LLD]
+- https://akshay-iyangar.github.io/system-design/ [OOAD/LLD + Sys Des]
+- https://github.com/tssovi/grokking-the-object-oriented-design-interview [LLD/OOAD]
 - https://www.youtube.com/watch?v=ztHopE5Wnpc
 - https://www.udacity.com/course/database-systems-concepts-design--ud150?irclickid=T4iyYGz1BxyLRoUwUx0Mo3EFUkEwtBQQDzuOQA0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=__&utm_content=&adid=788805
 - https://www.youtube.com/watch?v=ZgdS0EUmn70&list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL
