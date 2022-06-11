@@ -120,7 +120,7 @@ I am going to split the resources according to Video Based Learning & Text Based
 - https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/
 - https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm
 - https://www.geeksforgeeks.org/data-structures/?ref=shm
-- https://github.com/jeffgerickson/algorithms [rigorous]
+- https://jeffe.cs.illinois.edu/teaching/algorithms/ [rigorous]
 - https://github.com/TheAlgorithms [Algo implementation in 6 languages!]
 
 **Books**
