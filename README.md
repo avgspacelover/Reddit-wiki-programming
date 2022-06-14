@@ -246,6 +246,9 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://projecteuler.net/
 - https://blog.shahjalalshohag.com/topic-list/ [must-read]
 - Book: Competitive Programming Handbook, Springer
+
+## Sanity Checks while interviewing
+- https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0
  
 ## CS Fundamentals
 
