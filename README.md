@@ -186,7 +186,8 @@ P.S : The first two channels have picked very important problems and you can eve
 
 - https://www.reddit.com/r/cscareerquestions/comments/6luszf/a_leetcode_grinding_guide/
 - https://www.techinterviewhandbook.org/
-- https://www.techinterviewhandbook.org/grind75
+- https://www.techinterviewhandbook.org/grind75 [ GRIND 75 ] ----------------------------------------------------------------- MUST REFER
+- https://medium.com/coders-mojo/mega-post-tech-interview-the-only-list-of-questions-you-need-to-practice-ee349ea197bb 
 - https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/
 - https://chivagarg.medium.com/be-agile-not-prolific-f0f88b86aace
 - https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
@@ -201,7 +202,6 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://techinterviewhandbook.org/best-practice-questions/
 - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed [Must- Read]
 - https://github.com/kamyu104/LeetCode-Solutions
-- https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/ [must read]
 - https://www.youtube.com/watch?v=QT0dS9C9uwo&ab_channel=W.IanDouglas [must watch]
 - https://codeforces.com/blog/entry/20548
 - https://codeforces.com/blog/entry/99291
