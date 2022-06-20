@@ -215,7 +215,6 @@ P.S : The first two channels have picked very important problems and you can eve
 
 # Places To Practice/ Hone Your Skills!
 
-- https://www.hackerrank.com/domains/algorithms [basic/easy]
 - https://practice.geeksforgeeks.org/home/  [extensive]
 - https://leetcode.com/problemset/all/     [recommended/prescribed]
 - https://binarysearch.com/ [interactive]
