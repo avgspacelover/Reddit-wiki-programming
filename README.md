@@ -212,6 +212,8 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://www.reddit.com/r/IAmA/comments/ui98mg/im_michael_i_was_a_principal_engineer_at_facebook/
 - https://www.reddit.com/r/leetcode/comments/uy7moq/leetcode_tips_by_author_or_blind_75/
 - https://www.reddit.com/r/leetcode/comments/v577ju/comment/ib8c66i/?utm_source=share&utm_medium=web2x&context=3
+- https://www.reddit.com/r/leetcode/comments/vw696l/from_complete_beginner_to_solving_500_questions/
+
 
 # Places To Practice/ Hone Your Skills!
 
