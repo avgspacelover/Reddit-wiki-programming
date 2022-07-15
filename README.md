@@ -95,6 +95,7 @@ I am going to split the resources according to Video Based Learning & Text Based
 - https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H [Quick Overview of DSA]
 
 - https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O [In Depth]
+- https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&ab_channel=AbdulBari [Abdul Bari] [Algorithms in-depth-concise]
 - https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb [Rigorous & Formal]
 - https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY [Rigorous & Formal]
 - https://algs4.cs.princeton.edu/home/ [Rigorous & Formal]
