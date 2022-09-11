@@ -329,6 +329,7 @@ P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns
 - https://github.com/madd86/awesome-system-design
 - https://github.com/shashank88/system_design
 - https://github.com/karanpratapsingh/system-design
+- https://medium.com/coders-mojo/complete-system-design-series-part-1-45bf9c8654bc
 
 ## Tackling Behavorial Interviews
 
