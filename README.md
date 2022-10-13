@@ -30,6 +30,7 @@ You can look up the pros and cons of learning each with a quick google search of
 + https://www.coursera.org/projects/introduction-to-python
 + https://runestone.academy/runestone/books/published/pythonds/index.html
 + https://www.geeksforgeeks.org/python-programming-language/
++ https://www.scaler.com/topics/python/
 + https://futurecoder.io/
 + https://www.fullstackpython.com/
 + https://automatetheboringstuff.com/
