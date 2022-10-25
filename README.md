@@ -338,6 +338,11 @@ P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns
 - Tips: https://www.indeed.com/career-advice/interviewing/most-common-behavioral-interview-questions-and-answers?utm_source=podia&utm_medium=broadcast&utm_campaign=741478
 - Tips: https://www.educative.io/blog/behavioral-interviews-how-to-prepare-and-ace-interview-questions
 
+## Tackling Compensation Negotiation
+
+- Comprehensive guide to equity compensation: https://github.com/jlevy/og-equity-compensation
+- https://www.techinterviewhandbook.org/negotiation-rules
+
 
 <hr>
 
