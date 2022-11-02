@@ -79,6 +79,7 @@ Now you have understood the syntax of your preferred language and need to hon yo
 - https://www.youtube.com/watch?v=Ee0HzlnIYWQ
 - https://www.youtube.com/watch?v=Mo4vesaut8g
 - https://www.youtube.com/watch?v=J56ggSnbyKY&list=PLiQ766zSC5jOuk-QnjvTv7E8wqOTQ-Ic9
+- https://www.scaler.com/topics/data-structures/
 
 
 
