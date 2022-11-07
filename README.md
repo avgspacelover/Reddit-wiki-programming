@@ -112,6 +112,7 @@ I am going to split the resources according to Video Based Learning & Text Based
 - https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-oTlhZjHnLdGgvt2yfo3pzQ&siteID=JVFxdTr9V80-oTlhZjHnLdGgvt2yfo3pzQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80
 - https://www.udemy.com/course/dynamic-programming-i/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-oWU5LIlIjVnh5nu21LTTJg&utm_medium=udemyads&utm_source=aff-campaign
 - https://www.edx.org/course/algorithm-design-and-analysis
+- https://www.scaler.com/topics/data-structures/
 
 
 **Text Based Learning**
