@@ -196,7 +196,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
 - https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
 - https://www.pepcoding.com/most-important-interview-questions-list-for-product-based-companies
-
+- -----------
 - https://medium.com/coders-mojo/mega-post-tech-interview-the-only-list-of-questions-you-need-to-practice-ee349ea197bb 
 - https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/
 - https://chivagarg.medium.com/be-agile-not-prolific-f0f88b86aace
@@ -222,6 +222,7 @@ P.S : The first two channels have picked very important problems and you can eve
 
 **SOLUTIONS TO ALL 2300 LEETCODE PROBLEMS**
 - https://leetcode.ca/
+- https://wentao-shao.gitbook.io/leetcode/
 
 # Places To Practice/ Hone Your Skills!
 
