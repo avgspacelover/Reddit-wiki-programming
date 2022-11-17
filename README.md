@@ -188,7 +188,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://www.reddit.com/r/cscareerquestions/comments/6luszf/a_leetcode_grinding_guide/
 - https://www.techinterviewhandbook.org/
 
-*** Important Pattern Forming Questions
+***Important Pattern Forming Questions***
 
 - https://www.techinterviewhandbook.org/grind75 [ GRIND 75 ] ----------------------------- MUST REFER
 - https://github.com/SeanPrashad/leetcode-patterns
