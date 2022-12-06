@@ -159,6 +159,14 @@ P.S : The first two channels have picked very important problems and you can eve
 
 ## Selective content and strategies for  getting better at Leetcode
 
+**Recursion**
+
+- https://www.youtube.com/watch?v=yVdKa8dnKiE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=2&ab_channel=takeUforward
+- https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY
+- https://www.youtube.com/watch?v=cHMr5-0SDAA&list=PLN4aKSfpk8TR-A59O9qR2VL0wqt3LrrnK&ab_channel=CodeBeyond
+- https://www.youtube.com/watch?v=5Q5ed7PWJ8I&list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs
+- https://www.youtube.com/watch?v=LliQjLnbhx8&list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0
+
 **Dynamic Programming**
 
 - https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
