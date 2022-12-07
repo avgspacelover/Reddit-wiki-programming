@@ -20,6 +20,67 @@ I will include feedback loop sessions which will allow you to test your skills.
 Consider them like scenarios where you try to reapeat an answer you memorized without seeing to check whether it has been registered in your head properly.
 To do the above mentioned things better I recommend you to watch the below two videos:
 
-- Spaced Repitition[ https://www.youtube.com/watch?v=Z-zNHHpXoMM ]
+- Spaced Repetition[ https://www.youtube.com/watch?v=Z-zNHHpXoMM ]
 - Active Recall[ https://www.youtube.com/watch?v=fDbxPVn02VU ]
-- how to study [ https://www.youtube.com/watch?v=ukLnPbIffxE 
+- how to study [ https://www.youtube.com/watch?v=ukLnPbIffxE ]
+
+<hr>
+## Git & Github
+
+<hr>
+## HTML
+
+<hr>
+## CSS
+
+
+<hr>
+### Revision
+
+
+<hr>
+## CSS Frameworks
+
+<hr>
+### Practice
+<hr>
+## Javascript
+
+## Frequently Asked  Concepts in Javascript
+
+
+<hr>
+### Practice
+
+<hr>
+## React
+
+
+<hr>
+## React Router & Redux
+
+
+<hr>
+### Practice
+
+<hr>
+## Frontend Testing
+
+<hr>
+## Node js & Backend Development
+
+<hr>
+## Backend Testing
+
+
+<hr>
+## Typescript
+
+<hr>
+## Design Patterns
+
+<hr>
+## Kubernetes & Docker// Terraform
+
+
+
