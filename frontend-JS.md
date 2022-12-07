@@ -25,31 +25,40 @@ To do the above mentioned things better I recommend you to watch the below two v
 - how to study [ https://www.youtube.com/watch?v=ukLnPbIffxE ]
 
 <hr>
+
 ## Git & Github
 
 <hr>
+
 ## HTML
 
 <hr>
+
 ## CSS
 
 
 <hr>
+
 ### Revision
 
 
 <hr>
+
 ## CSS Frameworks
 
 <hr>
+
 ### Practice
+
 <hr>
+
 ## Javascript
 
 ## Frequently Asked  Concepts in Javascript
 
 
 <hr>
+
 ### Practice
 
 <hr>
@@ -57,29 +66,37 @@ To do the above mentioned things better I recommend you to watch the below two v
 
 
 <hr>
+
 ## React Router & Redux
 
 
 <hr>
+
 ### Practice
 
 <hr>
+
 ## Frontend Testing
 
 <hr>
+
 ## Node js & Backend Development
 
 <hr>
+
 ## Backend Testing
 
 
 <hr>
+
 ## Typescript
 
 <hr>
+
 ## Design Patterns
 
 <hr>
+
 ## Kubernetes & Docker// Terraform
 
 
