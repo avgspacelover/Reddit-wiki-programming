@@ -311,6 +311,7 @@ I just accumulated all things you can revise 10 days before your interview with 
   - https://www.youtube.com/playlist?list=PLfVsf4Bjg79DLA5K3GLbIwf3baNVFO2Lq
   - https://www.interviewbit.com/oops-interview-questions/
   - https://www.youtube.com/watch?v=qsMahidcehY
+  - https://www.adaface.com/blog/oops-interview-questions/
 
 Link: https://github.com/antariksh17/Subjective-studies_OS-CN-DBMS
 
