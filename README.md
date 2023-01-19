@@ -166,6 +166,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://www.youtube.com/watch?v=cHMr5-0SDAA&list=PLN4aKSfpk8TR-A59O9qR2VL0wqt3LrrnK&ab_channel=CodeBeyond
 - https://www.youtube.com/watch?v=5Q5ed7PWJ8I&list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs
 - https://www.youtube.com/watch?v=LliQjLnbhx8&list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0
+- https://www.youtube.com/watch?v=M2uO2nMT0Bk
 
 **Dynamic Programming**
 
@@ -305,6 +306,7 @@ I just accumulated all things you can revise 10 days before your interview with 
    - https://www.youtube.com/watch?v=qiQR5rTSshw
    - https://www.youtube.com/watch?v=QKfk7YFILws
    - https://www.udacity.com/course/networking-for-web-developers--ud256
+   - https://www.interviewbit.com/networking-interview-questions/
 
 - Object Oriented  Programming + Analysis & Design
   - https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw
