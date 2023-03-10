@@ -45,7 +45,11 @@ To do the above mentioned things better I recommend you to watch the below two v
 - https://www.youtube.com/watch?v=n4R2E7O-Ngo
 - https://www.youtube.com/watch?v=u044iM9xsWU
 - https://www.youtube.com/watch?v=vHuSz4fRM88
+- https://www.youtube.com/watch?v=rg7Fvvl3taU
 - https://www.youtube.com/watch?v=KYFwcIRx16g
+- https://www.youtube.com/watch?v=86nTToBm2uQ
+- https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY
+- https://www.youtube.com/watch?v=Y8zMYaD1bz0&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG
 
 
 <hr>
