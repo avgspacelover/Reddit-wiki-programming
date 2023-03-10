@@ -1,4 +1,4 @@
-# Resources To Learn Frontend Web Development in Javascript
+# Resources To Learn  Web Development in Javascript
 
 Before i begin writing this, you need to understand the concept of feedback loops. There are an infinite amount of free tutorials/ bootcamps, 
 but they are not producing the same amount of good development engineers. Its really important to understand why.
@@ -27,6 +27,9 @@ To do the above mentioned things better I recommend you to watch the below two v
 <hr>
 
 ## Git & Github
+
+- https://www.youtube.com/watch?v=RGOj5yH7evk
+- https://learngitbranching.js.org/
 
 <hr>
 
