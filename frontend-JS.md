@@ -35,9 +35,17 @@ To do the above mentioned things better I recommend you to watch the below two v
 
 ## HTML
 
+- https://www.youtube.com/watch?v=mJgBOIoGihA
+- 
+
 <hr>
 
 ## CSS
+
+- https://www.youtube.com/watch?v=n4R2E7O-Ngo
+- https://www.youtube.com/watch?v=u044iM9xsWU
+- https://www.youtube.com/watch?v=vHuSz4fRM88
+- https://www.youtube.com/watch?v=KYFwcIRx16g
 
 
 <hr>
