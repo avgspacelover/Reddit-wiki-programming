@@ -177,6 +177,21 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://www.youtube.com/watch?v=f19e_ofbydc&list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS
 - https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
 
+**Stacks**
+- https://www.youtube.com/watch?v=P1bAPZg5uaE&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&ab_channel=AdityaVerma
+- https://www.youtube.com/watch?v=GYptUgnIM_I&list=PLgUwDviBIf0oSO572kQ7KCSvCUh1AdILj&ab_channel=takeUforward
+- https://www.youtube.com/watch?v=Fu03UXZgI9s&list=PL-Jc9J83PIiEyUGT3S8zPdTMYojwZPLUM&ab_channel=Pepcoding
+- https://www.youtube.com/watch?v=WTzjTskDFMg&list=PLot-Xpze53lfxD6l5pAGvCD4nPvWKU8Qo&ab_channel=NeetCode
+
+**Hash Table**
+- https://www.youtube.com/watch?v=92aV0eJEVug&list=PLEJXowNB4kPxWxRGSSn4qLdZm0h_XHqzt&ab_channel=TECHDOSE
+- https://www.youtube.com/watch?v=bit4Jn-ZoyQ&list=PL-Jc9J83PIiEp9DKNiaQyjuDeg3XSoVMR&ab_channel=Pepcoding
+
+
+**Bit Manipulation**
+- https://www.youtube.com/watch?v=5rtVTYAk9KQ&ab_channel=CodeBeyond
+- https://www.youtube.com/watch?v=iQELya_vsDQ&list=PLLT4EuYB4kIZGBE71Udl0m68uFxRiMhGS&ab_channel=CodewithAlisha
+
 **Graph Algorithms**
 
 - https://www.youtube.com/watch?v=tWVWeAqZ0WU&ab_channel=freeCodeCamp.org
@@ -184,12 +199,21 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://www.youtube.com/watch?v=DgXR2OWQnLc&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P
 - https://www.youtube.com/watch?v=-dfsxsiGoC8&list=PLiQ766zSC5jNlilqsJSiVcvIMxTdMlJbl
 - https://www.youtube.com/c/MichaelSambol/videos
+- https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn
 
 **Trees**
 - https://www.youtube.com/watch?v=suj1ro8TIVY&list=PLiQ766zSC5jND9vxch5-zT7GuMigiWaV_
 - https://www.youtube.com/watch?v=fAAZixBzIAI
 - https://www.youtube.com/watch?v=1XC3p2zBK34&list=PLDV1Zeh2NRsDfGc8rbQ0_58oEZQVtvoIc
 - https://www.youtube.com/watch?v=JfSdGQdAzq8&list=PLDV1Zeh2NRsCYY48kOkeLQ-cg9-eqInzs
+- https://www.youtube.com/watch?v=_ANrF3FJm7I&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=2&ab_channel=takeUforward
+
+** Sliding Window**
+- https://www.youtube.com/watch?v=EHCGAZBbB88&list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj
+- https://www.youtube.com/watch?v=1pkOgXD63yU&list=PLot-Xpze53leOBgcVsJBEGrHPd_7x_koV
+
+**Binary Search**
+- https://leetcode.com/discuss/study-guide/3266833/op-binary-search-questions
 
 **Strategy**
 
