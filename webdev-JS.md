@@ -69,6 +69,12 @@ To do the above mentioned things better I recommend you to watch the below two v
 
 ## Javascript
 
+
+
+### Algorithms
+- https://frontendmasters.com/courses/algorithms/
+
+
 ## Frequently Asked  Concepts in Javascript
 
 
