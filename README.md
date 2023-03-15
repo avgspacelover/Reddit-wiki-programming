@@ -383,6 +383,7 @@ P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns
 
 - Comprehensive guide to equity compensation: https://github.com/jlevy/og-equity-compensation
 - https://www.techinterviewhandbook.org/negotiation-rules
+- Concurrent interviewing + negotiating advice- https://twitter.com/shrihacker/status/1634799617673134083?s=20
 
 
 <hr>
