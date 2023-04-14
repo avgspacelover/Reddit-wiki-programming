@@ -177,6 +177,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go [Language Barrier]
 - https://www.youtube.com/watch?v=f19e_ofbydc&list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS
 - https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
+- https://www.byte-by-byte.com/dynamic-programming/
 
 **Stacks**
 - https://www.youtube.com/watch?v=P1bAPZg5uaE&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&ab_channel=AdityaVerma
