@@ -140,7 +140,7 @@ P.S If you  can't afford to Buy  Books then google "Library Genesis" :)
  - https://algo.monster 
  - https://www.techinterviewhandbook.org/
  - https://medium.com/interviewnoodle/grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1
-
+ - important questions: https://walnut-fork-977.notion.site/Placement-Preparation-Guide-48ee514eb8da464aa4c97b367e4f7790
 
 P.S If you  can't afford to pay for this subscription then google "Library Genesis" :)
 
