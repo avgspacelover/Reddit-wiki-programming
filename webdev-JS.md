@@ -9,7 +9,7 @@ You all must have witnessed the anomaly of people landing amazing job without ha
 Here's the secret:
 " Do less, but do it amazingly well."
 
-Even if you just learn HTML & CSS, practice making enough mockups that you are really good at HTL & CSS. Creating feedbacks loops for yourself by challenging
+Even if you just learn HTML & CSS, practice making enough mockups that you are really good at HTML & CSS. Creating feedbacks loops for yourself by challenging
 yourself to make fully functional apps out of a requirement/feature list is the only way to get better at this. The geeks call this a top down approach.
 
 Trust me on this, knowing 100 programming languges will not set you apart, but building something extremely useful from something as bad as PHP is enough to land you a good job!
@@ -18,7 +18,7 @@ So please focus on that instead of doing a tutorial rampage.
 I will include feedback loop sessions which will allow you to test your skills.
 
 Consider them like scenarios where you try to reapeat an answer you memorized without seeing to check whether it has been registered in your head properly.
-To do the above mentioned things better I recommend you to watch the below two videos:
+To do the above mentioned things better I recommend you to watch the below videos:
 
 - Spaced Repetition[ https://www.youtube.com/watch?v=Z-zNHHpXoMM ]
 - Active Recall[ https://www.youtube.com/watch?v=fDbxPVn02VU ]
@@ -36,7 +36,6 @@ To do the above mentioned things better I recommend you to watch the below two v
 ## HTML
 
 - https://www.youtube.com/watch?v=mJgBOIoGihA
-- 
 
 <hr>
 
@@ -55,11 +54,14 @@ To do the above mentioned things better I recommend you to watch the below two v
 <hr>
 
 ### Revision
+10 mock frontends with just html & css
+- https://frontendmentor.com
 
 
 <hr>
 
 ## CSS Frameworks
+- 
 
 <hr>
 
