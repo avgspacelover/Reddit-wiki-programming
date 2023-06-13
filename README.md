@@ -41,6 +41,7 @@ You can look up the pros and cons of learning each with a quick google search of
 + https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
 + https://github.com/donnemartin/interactive-coding-challenges
 + https://www.youtube.com/watch?v=pkYVOmU3MgA&ab_channel=freeCodeCamp.org | https://jovian.ai/learn/data-structures-and-algorithms-in-python [recommended]
++ https://www.interviewbit.com/blog/best-free-python-course/ 
 
 
 ### C++ (Resources)
@@ -52,6 +53,7 @@ You can look up the pros and cons of learning each with a quick google search of
 + https://www.udacity.com/course/c-for-programmers--ud210
 + https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF
 + https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&ab_channel=ApnaCollege [Language Barrier, but the syllabus is almost exhaustive so definitely worth it to just refer is as curriculum]
++ https://www.interviewbit.com/blog/best-free-cpp-course/
 
 
 ### Java (Resources)
@@ -62,6 +64,7 @@ You can look up the pros and cons of learning each with a quick google search of
 - https://www.coursera.org/learn/object-oriented-java?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-29tDkJq_MFdgmJDSiq2LNw&siteID=SAyYsTvLiGQ-29tDkJq_MFdgmJDSiq2LNw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ
 - https://www.edx.org/course/learn-to-program-in-java-2?source=aw&awc=6798_1606627150_a3df9ef86729a1413ed1f654d1e3b203&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F
 - https://www.geeksforgeeks.org/java-how-to-start-learning-java/
+- https://www.interviewbit.com/blog/best-free-java-course/
 
 ## DATA STRUCTURES & ALGORITHMS
 
@@ -382,6 +385,7 @@ P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns
 - Reverse Interview: https://github.com/viraptor/reverse-interview || https://github.com/Twipped/InterviewThis
 - Tips: https://www.indeed.com/career-advice/interviewing/most-common-behavioral-interview-questions-and-answers?utm_source=podia&utm_medium=broadcast&utm_campaign=741478
 - Tips: https://www.educative.io/blog/behavioral-interviews-how-to-prepare-and-ace-interview-questions
+- Tips: https://www.interviewbit.com/behavioral-interview-questions/
 
 ## Tackling Compensation Negotiation
 
