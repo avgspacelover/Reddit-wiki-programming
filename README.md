@@ -72,7 +72,6 @@ Now you have understood the syntax of your preferred language and need to hon yo
 **Resources**
 
 - https://www.educative.io/blog/a-big-o-primer-for-beginning-devs
-- https://www.educative.io/blog/big-o-notation-cheat-sheet
 - https://www.educative.io/blog/data-structures-algorithms
 - https://cooervo.github.io/Algorithms-DataStructures-BigONotation/
 - https://www.youtube.com/watch?v=9TlHvipP5yA
