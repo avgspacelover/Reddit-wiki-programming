@@ -5,7 +5,7 @@ Assuming you get to this place a year or at least 6 months before you start your
 
 Disclaimer: This doesn't make you a brilliant computer scientist but an excellent bread winner.
 
-P.S: you also might want to check out this google spreadsheet for tech stack based learning or other resources- https://bit.ly/drownincode
+P.S: you also might want to check out this google spreadsheet for tech stack based learning or other resources- https://tinyurl.com/drownincode
 ## Learn a Language
 
 Many people avoid learning Python because the availibility of libraries make it difficult to test your ability manipulate data structures, but regardless I am only including the 3 prominent languages here with short links to other 2 which are getting popular.
