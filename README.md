@@ -22,6 +22,7 @@ You can look up the pros and cons of learning each with a quick google search of
 ### Python(Resources)
 
 + https://www.codecademy.com/catalog/language/python [Recommended]
++ https://programiz.pro/course/dsa-with-python
 + https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 + https://www.youtube.com/watch?v=rfscVS0vtbw
 + https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB
@@ -47,6 +48,7 @@ You can look up the pros and cons of learning each with a quick google search of
 ### C++ (Resources)
 
 + https://www.learncpp.com/
++ https://programiz.pro/course/dsa-with-cpp
 + https://practice.geeksforgeeks.org/batch/fork-cpp
 + https://www.edx.org/learn/c-plus-plus
 + https://www.youtube.com/watch?v=A3VQKXBLstw&list=PLEbnTDJUr_Ie_XH-FZN7zCdU7z_EvUmEg [comprehensive]
