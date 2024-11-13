@@ -388,6 +388,7 @@ P.S :For OOAD I would definitely recommend the book "Diving into Design Patterns
 ## Tackling Compensation Negotiation
 
 - Comprehensive guide to equity compensation: https://github.com/jlevy/og-equity-compensation
+- A better understanding of ESOPS: https://x.com/arindam___paul/status/1733717435214434705
 - https://www.techinterviewhandbook.org/negotiation-rules
 - Concurrent interviewing + negotiating advice- https://twitter.com/shrihacker/status/1634799617673134083?s=20
 
