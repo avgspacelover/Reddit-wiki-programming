@@ -267,6 +267,7 @@ P.S : The first two channels have picked very important problems and you can eve
 - https://binarysearch.com/ [interactive]
 - https://www.codewars.com/dashboard [interactive]
 - https://exercism.org/tracks/javascript [interactive]
+- https://labex.io/exercises [interactive]
 
 **Advanced**
 - https://codeforces.com/problemset
